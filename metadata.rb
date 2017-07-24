@@ -1,3 +1,6 @@
+# ~FC066
+# ~FC067
+# ~FC078
 name             'cookbook_analogj_test'
 license          'All rights reserved'
 description      'Installs/Configures cookbook_analogj_test'
