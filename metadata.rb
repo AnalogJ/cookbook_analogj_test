@@ -1,5 +1,5 @@
 name             'cookbook_analogj_test'
-license          'All rights reserved'
+license          'MIT'
 description      'Installs/Configures cookbook_analogj_test'
 long_description 'Installs/Configures cookbook_analogj_test'
 version          '0.1.12'
